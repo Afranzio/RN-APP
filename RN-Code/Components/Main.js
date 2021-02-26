@@ -3,7 +3,7 @@ import React, {useState, useEffect} from 'react'
 import { StyleSheet, Text, View, Image } from 'react-native';
 
 
-import './Main.css'
+// import './Main.css'
 // import 'bootstrap/dist/css/bootstrap.min.css';
 
 
